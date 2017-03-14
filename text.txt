@@ -1,1 +1,3 @@
 This file was created on local workstation to be submitted to the github repository via tortoise git.
+
+first test to add did not work. i think putty keys were needed. testing again to see if i config it properly.
